@@ -1,0 +1,6 @@
+{
+  "name": "English Quest Town",
+  "description": "초등 3~4학년을 위한 퀘스트형 생활 영어 학습 게임 (HOME·SCHOOL·MARKET 맵 퀘스트)",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
